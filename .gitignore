@@ -101,4 +101,4 @@ ENV/
 # Rope project settings
 .ropeproject
 
-environments/frontend_server/storage/*
+environment/frontend_server/storage/*
